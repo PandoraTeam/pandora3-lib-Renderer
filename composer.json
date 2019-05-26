@@ -1,0 +1,17 @@
+{
+	"name": "pandora3/lib-renderer",
+	"type": "pandora3-lib",
+	"description": "Pandora 3: Lib Renderer",
+	"homepage": "https://github.com/PandoraTeam/pandora3-lib-Renderer",
+	"authors": [
+		{
+			"name": "Petr Gostin",
+			"email": "nescafe238@gmail.com",
+			"homepage": "http://u-238.ru",
+			"role": "Developer"
+		}
+	],
+	"extra": {
+		"installer-name": "Renderer"
+	}
+}
